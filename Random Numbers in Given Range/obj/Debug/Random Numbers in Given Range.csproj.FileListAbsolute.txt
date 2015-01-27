@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Random Numbers in Given Range\bin\Debug\Random Numbers in Given Range.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Random Numbers in Given Range\bin\Debug\Random Numbers in Given Range.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Random Numbers in Given Range\bin\Debug\Random Numbers in Given Range.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Random Numbers in Given Range\obj\Debug\Random Numbers in Given Range.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Random Numbers in Given Range\obj\Debug\Random Numbers in Given Range.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Random Numbers in Given Range\obj\Debug\Random Numbers in Given Range.pdb

@@ -1,0 +1,6 @@
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.exe.config
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.csprojResolveAssemblyReference.cache
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.pdb
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.pdb

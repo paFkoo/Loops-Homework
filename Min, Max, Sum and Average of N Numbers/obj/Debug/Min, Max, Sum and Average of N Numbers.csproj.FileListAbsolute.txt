@@ -1,0 +1,6 @@
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Min, Max, Sum and Average of N Numbers\bin\Debug\Min, Max, Sum and Average of N Numbers.exe.config
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Min, Max, Sum and Average of N Numbers\bin\Debug\Min, Max, Sum and Average of N Numbers.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Min, Max, Sum and Average of N Numbers\bin\Debug\Min, Max, Sum and Average of N Numbers.pdb
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Min, Max, Sum and Average of N Numbers\obj\Debug\Min, Max, Sum and Average of N Numbers.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Min, Max, Sum and Average of N Numbers\obj\Debug\Min, Max, Sum and Average of N Numbers.pdb
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Min, Max, Sum and Average of N Numbers\obj\Debug\Min, Max, Sum and Average of N Numbers.csprojResolveAssemblyReference.cache

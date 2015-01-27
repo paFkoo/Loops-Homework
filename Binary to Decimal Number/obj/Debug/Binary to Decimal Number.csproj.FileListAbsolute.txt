@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Binary to Decimal Number\bin\Debug\Binary to Decimal Number.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Binary to Decimal Number\bin\Debug\Binary to Decimal Number.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Binary to Decimal Number\bin\Debug\Binary to Decimal Number.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Binary to Decimal Number\obj\Debug\Binary to Decimal Number.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Binary to Decimal Number\obj\Debug\Binary to Decimal Number.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Binary to Decimal Number\obj\Debug\Binary to Decimal Number.pdb

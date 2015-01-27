@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Catalan Numbers\bin\Debug\Catalan Numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Catalan Numbers\bin\Debug\Catalan Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Catalan Numbers\bin\Debug\Catalan Numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Catalan Numbers\obj\Debug\Catalan Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Catalan Numbers\obj\Debug\Catalan Numbers.pdb

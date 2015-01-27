@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Calculate\bin\Debug\Calculate.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Calculate\bin\Debug\Calculate.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Calculate\obj\Debug\Calculate.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Calculate\obj\Debug\Calculate.pdb

@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Combinatorics\bin\Debug\Combinatorics.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Combinatorics\bin\Debug\Combinatorics.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Combinatorics\bin\Debug\Combinatorics.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Combinatorics\obj\Debug\Combinatorics.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Combinatorics\obj\Debug\Combinatorics.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Combinatorics\obj\Debug\Combinatorics.pdb

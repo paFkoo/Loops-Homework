@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Odd and Even Product\bin\Debug\Odd and Even Product.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Odd and Even Product\bin\Debug\Odd and Even Product.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Odd and Even Product\bin\Debug\Odd and Even Product.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Odd and Even Product\obj\Debug\Odd and Even Product.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 6\Лекция 6 Solution\Odd and Even Product\obj\Debug\Odd and Even Product.pdb
